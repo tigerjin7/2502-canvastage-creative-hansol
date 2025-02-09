@@ -136,23 +136,13 @@ body{
         width: 96%;
     }
     #copy3{
-        width: 30%;
         padding-right: 3%;
         font-size: 1.2rem; 
-        justify-content: center;
     }
-    #source1{
-        width: 70%;
-    }    
     #copy4{
-        width: 30%;
         padding-right: 3%;
         font-size: 1.2rem; 
-        justify-content: center;
     }
-    #source3{
-        width: 70%;
-    }    
     #link1{
         font-size: 1.3rem;
     } 
