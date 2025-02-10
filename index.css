@@ -66,8 +66,15 @@ body{
     margin-bottom: 0.5rem;
     display: flex;
 }
+.source2{
+    margin: 2%;
+    margin-bottom: 2rem;
+    margin-top: 0;
+    padding: 0;
+    width: 96%;
+}
 #copy3{
-    width: 23%;
+    width: 22%;
     font-family: NotoSansKR-Bold;
     font-style: italic;
     font-size: 1.3rem; 
@@ -77,20 +84,13 @@ body{
     justify-content: left;
 }
 #source1{
-    width: 77%;
+    width: 78%;
     display: flex;
     align-items: center;
     justify-content: right;
 }
-.source2{
-    margin: 2%;
-    margin-bottom: 2rem;
-    margin-top: 0;
-    padding: 0;
-    width: 96%;
-}
 #copy4{
-    width: 23%;
+    width: 22%;
     font-family: NotoSansKR-Bold;
     font-style: italic;
     font-size: 1.3rem; 
@@ -100,7 +100,7 @@ body{
     justify-content: left;
 }
 #source3{
-    width: 77%;
+    width: 78%;
     display: flex;
     align-items: center;
     justify-content: right;
