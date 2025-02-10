@@ -135,6 +135,14 @@ body{
     .container2{
         width: 96%;
     }
+    #copy3{
+        padding-right: 3%;
+        font-size: 1.2rem; 
+    }
+    #copy4{
+        padding-right: 3%;
+        font-size: 1.2rem; 
+    }
     #link1{
         font-size: 1.3rem;
     } 
